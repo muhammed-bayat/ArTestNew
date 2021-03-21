@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 6f96c9caf54df3a4a9b9188c4a5ee01b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Basamak
+    second: {fileID: 2800000, guid: beeb5d7de9e54ef468d58c2cd39a470b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beton
+    second: {fileID: 2800000, guid: ad47b8071adf3dd45a66a10d6916d0b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KaleDuvar
+    second: {fileID: 2800000, guid: 5e136c05446f3314da466b0e595e9c8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KaleSurZemin
+    second: {fileID: 2800000, guid: 26a532171c65a474e965bdc246b24f82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KaleSutun
+    second: {fileID: 2800000, guid: 2cce3fd9a03202443a4749c0a81e6a90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KaleSutun1
+    second: {fileID: 2800000, guid: 63c8750499902bd43b96dfda4d8a7ef2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KaleSutun1_bump
+    second: {fileID: 2800000, guid: 80a2b2cc831d88944a08915cdaad641d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KaleYazi
+    second: {fileID: 2800000, guid: 572c2b52318bd9641939dff8dc7f5bb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KapiKolu
+    second: {fileID: 2800000, guid: 6d82f514b214a324a82ef3855de5f284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KucukKapilar2
+    second: {fileID: 2800000, guid: d689f2790eebb6a4997445d4ae24ba71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KuleCati
+    second: {fileID: 2800000, guid: ab0ba0f81a375824981923ec22768b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KuleCatiTrabzan
+    second: {fileID: 2800000, guid: 424733ec569ee46488d6bcfdc85647c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KuleKemer
+    second: {fileID: 2800000, guid: 6da30f700164d7a46b52a5a2ceaf30d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KuleKemer_bump
+    second: {fileID: 2800000, guid: d6d094a9cbbfed348a418eb8caf57240, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KuleTahta
+    second: {fileID: 2800000, guid: 67571cb988ceb3b4db5e7b31db689226, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mescit
+    second: {fileID: 2800000, guid: dd38b3ed646a8c449ace723f463564d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MescitDuvaric
+    second: {fileID: 2800000, guid: 58bad4f28391d714788962d39093bf08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MescitZemin
+    second: {fileID: 2800000, guid: da441083cc78c514ea03b1794f4b1506, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnTahtaKapi
+    second: {fileID: 2800000, guid: 76211c5ddfb097b4dab193aa628a7aa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnTahtaKapi_bump
+    second: {fileID: 2800000, guid: 38b8182ac7d25634b9e26c277b60a611, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Saat
+    second: {fileID: 2800000, guid: 7318cd5807b1187478351ab9a9c5bd93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SaatKuleDuvar
+    second: {fileID: 2800000, guid: 548a4debea2f2544ebbe823827bf314e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SaatKuleEnUstDuvar
+    second: {fileID: 2800000, guid: e390251f67d402746a0978a83d05ed0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SaatKuleUstDuvar
+    second: {fileID: 2800000, guid: 6c1f35a18ef66424391929303a93fa6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SaatKuleUstDuvar_bump
+    second: {fileID: 2800000, guid: 41933334ed4925848b9d7926247e18ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SaatKuleYazi
+    second: {fileID: 2800000, guid: c4cc4c616504c574a820b69207d1336d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TahtaTrabzan
+    second: {fileID: 2800000, guid: b88d29614404d9a41aa73cf00dbb146a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
